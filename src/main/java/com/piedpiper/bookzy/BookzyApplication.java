@@ -16,6 +16,6 @@ public class BookzyApplication {
 
 	@RequestMapping(value = "/")
 	public String hello() {
-		return "Hello Worlds!";
+		return "Hello Mars!";
 	}
 }
